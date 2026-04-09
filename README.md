@@ -51,7 +51,7 @@ Entrada --> Processamento --> Saída
 
 | / | Dividir | 20 / 2 | 10 |
 
-| /= | Divifir e atribuir | x /= 2 | 10 |
+| /= | Dividir e atribuir | x /= 2 | 10 |
 
 | ++ | Somar 1 ao resultado | x ++ | 11 |
 
