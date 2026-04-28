@@ -33,4 +33,21 @@ Entrada --> Processamento --> Saída
 | ++ | Somar 1 ao resultado | x ++ | 11 |
 | -- | Subtrair 1 do resultado | x -- | 9 |
 | % | Resto da  divisão | 10 % 3 | 1 |
- 
+
+### Laços de rpetições
+for (let i = 1; i<10; i++){
+// codigo e repetido enquanto a condiçao for verdadeira 
+}
+
+
+
+ while ( condição ) {
+ // o codigo e repetido enquanto a condição for verdadeira 
+ }
+
+ do { 
+ // o codigo e executado uma vez independente da condição, depois 
+ // o codigo é repetido enquanto a condição for verdadeira 
+
+ } while ( condição )
+...
